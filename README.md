@@ -1,18 +1,3 @@
-# test
-收到佛那暗示欧
-
-时代峰峻类似的
-
-阿什顿发考虑
-
-阿什顿发雷克萨看看副科级
-
-奥斯卡浪费了多久啊
-
-卡萨丁放假了
-
-阿萨德李开复
-
-阿萨德联发科
-啊圣诞快乐
-<span style="color:red;">这是红色</span>
+1、 pom 中 依赖对其他module的pom的依赖<dependency>，只是包的依赖。
+除此之外的其他配置，如properties、build 等只能通过继承得到<parent>。
+因此 maven编译jdk版本，字符编码，项目版本等都是配置在root结构的pom中的。
