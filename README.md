@@ -15,3 +15,4 @@
 
 阿萨德联发科
 啊圣诞快乐
+<span style="color:red;">这是红色</span>
